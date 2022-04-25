@@ -1,2 +1,19 @@
-# BlazorECBook
-「猫でもわかるBlazor ECサイトを作ろう」のサポートページです。
+# 「猫でもわかるBlazor ECサイト編」のサポートページ
+
+▼ 書籍販売 URL  
+https://nekojoker.booth.pm/items/3813171
+
+
+## 改訂履歴
+
+### ver 1.0 (2022/05/01)
+
+初版
+
+## お問い合わせ
+
+Blog：https://blazor-master.com/contact  
+Twitter：https://twitter.com/nekojoker1234
+
+1人で対応することになるため、お返事が遅れる場合もあります。  
+また、すべてのお問い合わせにご回答できない場合もありますので、あらかじめご了承ください。  
